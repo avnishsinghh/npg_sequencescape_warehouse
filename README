@@ -3,3 +3,6 @@ npg_sequencescape_warehouse
 
 DBIx binding for the old sequencescape warehouse.
 
+This repository contains legacy code, which is no longer in use.
+This repository is not maintained.
+
