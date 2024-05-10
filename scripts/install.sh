@@ -6,7 +6,6 @@ WTSI_NPG_BUILD_BRANCH=${WTSI_NPG_BUILD_BRANCH:=devel}
 WTSI_NPG_GITHUB_URL=${WTSI_NPG_GITHUB_URL:=https://github.com/wtsi-npg}
 
 # CPAN
-cpanm --quiet --notest Alien::Tidyp # For npg_tracking
 cpanm --quiet --notest Module::Build
 cpanm --quiet --notest https://github.com/chapmanb/vcftools-cpan/archive/v0.953.tar.gz # for npg_qc
 
